@@ -1,0 +1,7 @@
+ The total number of votes cast was 3521001.
+ The complete list of candidates running was ['Khan', 'Correy', 'Li', "O'Tooley"].
+ Khan had 2218231 votes and this was 63.00% of the vote.
+ Correy had 704200 votes and this was 20.00% of the vote.
+ Li had 492940 votes and this was 14.00% of the vote.
+ O'Tooley had 105630 votes and this was 3.00% of the vote.
+The winner of the election was Khan with the most votes of 2218231 votes.
